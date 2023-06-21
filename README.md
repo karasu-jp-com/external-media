@@ -1,2 +1,4 @@
 # external-media
-WordPress Plugin. Adding GooglePhoto images to the media library
+WordPress Plugin.
+
+Adding GooglePhoto images to the media library
